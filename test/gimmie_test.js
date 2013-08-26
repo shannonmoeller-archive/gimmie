@@ -1,6 +1,6 @@
 'use strict';
 
-var gimmie = require('../lib/gimmie');
+var gimmie = require('..');
 
 exports.gimmie = {
     'no args': function(test) {
