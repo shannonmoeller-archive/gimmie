@@ -1,0 +1,25 @@
+{
+  "name": "gimmie",
+  "version": "0.1.0",
+  "description": "The stupid iterator.",
+  "homepage": "https://github.com/shannonmoeller/gimmie",
+  "bugs": "https://github.com/shannonmoeller/gimmie/issues",
+  "author": {
+    "name": "Shannon Moeller",
+    "email": "me@shannonmoeller.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shannonmoeller/gimmie"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}
