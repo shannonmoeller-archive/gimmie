@@ -1,4 +1,4 @@
-# gimmie [![Build Status](https://secure.travis-ci.org/shannonmoeller/gimmie.png?branch=master)](http://travis-ci.org/shannonmoeller/gimmie)
+# gimmie [![Build Status](https://secure.travis-ci.org/shannonmoeller/gimmie.js.png?branch=master)](http://travis-ci.org/shannonmoeller/gimmie.js)
 
 The stupid iterator.
 
