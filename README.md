@@ -1,3 +1,5 @@
+*DEPRECATION NOTICE*: This project has been incorporated into [mtil](https://github.com/militiajs/mtil) as `mtil/function/supply`.
+
 # gimmie [![Build Status](https://secure.travis-ci.org/shannonmoeller/gimmie.js.png?branch=master)](http://travis-ci.org/shannonmoeller/gimmie.js)
 
 The stupid iterator.
